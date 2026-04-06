@@ -1,6 +1,9 @@
+# Name: Alwyn Wilson
+# ID Number:20246780
+# Course: ITT103 - Programming Techniques
+# Project: Major Project - POS System
+# Date: April 3,2026
 
-
-# ALWYN
 # Best Buy Retail Store - Point of Sale (POS) System
 # Course: ITT103 - Programming Techniques
 # Spring 2026
