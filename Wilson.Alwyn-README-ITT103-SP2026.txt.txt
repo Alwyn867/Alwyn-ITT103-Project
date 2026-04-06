@@ -1,0 +1,22 @@
+Author: Alwyn Wilson
+Date: April 3, 2026
+Course: ITT103
+GitHub Public URL to Code: https://github.com/Alwyn867/Alwyn-ITT103-Project/upload/main
+Program Description: This program is a Point of Sale (POS) system developed for Best Buy Retail Store, a small business specializing in everyday essentials. The system aims to digitize the sales process, enabling cashiers to manage a product catalog of at least 10 items, handle shopping carts (add/remove), and process customer payments.
+The software automatically calculates a 10% sales tax and applies a 5% discount for any transactions exceeding $5,000. Additionally, it features real-time inventory management with automated low-stock alerts for any item with a quantity below 5.
+How to Run:
+Ensure you have Python 3.x installed on your machine. 
+Download the script file: Lastname.Firstname-POS-ITT103-SP2026.py. 
+Open your terminal or command prompt and navigate to the folder containing the file. 
+Run the command: python Lastname.Firstname-POS-ITT103-SP2026.py. 
+Follow the on-screen menu prompts to interact with the system. 
+Assumptions:
+User Input: It is assumed that the cashier will enter the correct product names as displayed in the catalog. 
+Payment Type: The system assumes all payments are entered as numeric values (integers or floats). 
+Stock Levels: It is assumed that stock levels are updated correctly within the dictionary during each session. 
+Limitations:
+Data Persistence: Since the system does not use an external database, all stock changes and transaction history will reset once the program is closed. 
+Single User: The system is designed for a single cashier interface at a time. 
+I certify that I have not given or received any unauthorized assistance on this assignment.
+Signature: A.Wilson
+ 
